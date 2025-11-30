@@ -1,0 +1,22 @@
+# Personal Portfolio Website
+
+## Overview
+This repository contains the source code for my personal portfolio website.  
+The site showcases my skills, experiences, and projects in a professional and interactive format.  
+It includes a chatbot, QR code integration, GitHub project links, and an updated resume.
+
+## Features
+- **Home:** Introduction and welcome section.  
+- **About:** Detailed description of skills, experiences, and education.  
+- **Projects:** Showcases work with links to GitHub repositories and live demos.  
+- **Resume:** Viewable online and downloadable in one click (HTML/PDF).  
+- **Contact:** Form for visitors to reach out.  
+- **Chatbot:** Simple FAQ chatbot answering questions about skills, tools, projects, and availability.  
+- **QR Code:** Direct link to portfolio, displayed on the site and embedded in the resume.  
+- **Design:** Dynamic colors, unique dark theme, pixelated horizon scenery background, smooth transitions/animations.  
+
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Chatbot:** Dialogflow or JavaScript-based chatbot library  
+- **Version Control:** Git & GitHub  
+- **Deployment:** GitHub Pages / Netlify / Vercel  
